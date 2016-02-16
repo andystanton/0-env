@@ -1,0 +1,15 @@
+{
+  "name": "0-env",
+  "main": "./lib/0-env",
+  "version": "0.0.0",
+  "description": "Populate Atom's env with user environment variables when loading from the launcher.",
+  "keywords": [
+    "environment",
+    "env"
+  ],
+  "repository": "https://github.com/andystanton/0-env",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
