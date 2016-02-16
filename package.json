@@ -1,7 +1,7 @@
 {
   "name": "0-env",
   "main": "./lib/0-env",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Populate Atom's env with user environment variables when loading from the launcher.",
   "keywords": [
     "environment",
